@@ -1,0 +1,25 @@
+{
+  "name": "hashbang-href-loader",
+  "version": "0.0.1",
+  "description": "AngularJS hashbang href rewriter loader module for Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottmcnab/hashbang-href-loader.git"
+  },
+  "keywords": [
+    "hashbang",
+    "href",
+    "loader",
+    "webpack"
+  ],
+  "author": "Scott McNab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottmcnab/hashbang-href-loader/issues"
+  },
+  "homepage": "https://github.com/scottmcnab/hashbang-href-loader"
+}
