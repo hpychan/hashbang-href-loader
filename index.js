@@ -7,5 +7,7 @@ module.exports = function(source) {
 	this.cacheable && this.cacheable();
   source = source.replace( /(\shref=")\//gi, "$1#!/");
   source = source.replace( /(\shref=')\//gi, "$1#!/");
+  source = source.replace( /(\sng-href=")\//gi, "$1#!/");
+  source = source.replace( /(\sng-href=')\//gi, "$1#!/");
 	return source;
 };

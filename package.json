@@ -1,6 +1,6 @@
 {
   "name": "hashbang-href-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AngularJS hashbang href rewriter loader module for Webpack",
   "main": "index.js",
   "scripts": {
